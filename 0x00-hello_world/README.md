@@ -6,3 +6,4 @@
 6. Print
 7. Size
 9. Intel
+10. Quote

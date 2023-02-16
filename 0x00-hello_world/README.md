@@ -4,3 +4,4 @@
 4. Name
 5. Put.c
 6. Print
+7. Size

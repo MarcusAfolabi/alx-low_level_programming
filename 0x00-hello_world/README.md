@@ -1,1 +1,2 @@
-Hello World of C
+1. Hello World of C
+2. Compiler

@@ -3,3 +3,4 @@
 3. Assembler
 4. Name
 5. Put.c
+6. Print

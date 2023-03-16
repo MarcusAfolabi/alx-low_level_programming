@@ -2,10 +2,14 @@
 #define MAIN_H
 
 /**
- * AutH: Afolabi A. Marcus
+ * Auth: Afolabi A. Marcus
  * Desc: Header file containing prototypes for all functions
  *       used in the 0x0B-more_malloc_free directory.
  */
+
+#include <stdio.h>
+#include <stdlib.h> 
+#include <limits.h>
 
 int _putchar(char c);
 void *malloc_checked(unsigned int b);

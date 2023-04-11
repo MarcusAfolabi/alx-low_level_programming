@@ -7,4 +7,5 @@ Tasks
 0. 1
 Write a function that prints the binary representation of a number.
 
-
+0. 2
+function that returns the value of a bit at a given index.
